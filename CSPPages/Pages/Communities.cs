@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CSPPages.Pages
 {
-   public class Communities
-    {
-    }
+   //public class Communities:BasePage
+   // {
+   // }
 }
